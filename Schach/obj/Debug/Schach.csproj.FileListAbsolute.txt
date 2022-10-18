@@ -1,0 +1,10 @@
+C:\Users\IFA2020-19\RiderProjects\Schach\Schach\bin\Debug\Schach.exe.config
+C:\Users\IFA2020-19\RiderProjects\Schach\Schach\bin\Debug\Schach.exe
+C:\Users\IFA2020-19\RiderProjects\Schach\Schach\bin\Debug\Schach.pdb
+C:\Users\IFA2020-19\RiderProjects\Schach\Schach\obj\Debug\Schach.csproj.AssemblyReference.cache
+C:\Users\IFA2020-19\RiderProjects\Schach\Schach\obj\Debug\Schach.Properties.Resources.resources
+C:\Users\IFA2020-19\RiderProjects\Schach\Schach\obj\Debug\Schach.csproj.GenerateResource.cache
+C:\Users\IFA2020-19\RiderProjects\Schach\Schach\obj\Debug\Schach.csproj.CoreCompileInputs.cache
+C:\Users\IFA2020-19\RiderProjects\Schach\Schach\obj\Debug\Schach.exe
+C:\Users\IFA2020-19\RiderProjects\Schach\Schach\obj\Debug\Schach.pdb
+C:\Users\IFA2020-19\RiderProjects\Schach\Schach\obj\Debug\Schach.Form1.resources
